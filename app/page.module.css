@@ -1,9 +1,7 @@
 .main {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  padding: 6rem;
+  background-color: rgb(226, 226, 226);
+  color: rgb(32, 32, 32);
+  padding-top: 5rem;
   min-height: 100vh;
 }
 
